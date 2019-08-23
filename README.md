@@ -35,3 +35,7 @@ Esse é um projeto destinado a disciplina de Linguagem de Programação 2 do curso 
 
 [**NetBeans IDE 8.2**](https://github.com/apache/netbeans) - Software de desenvolvimento.<br>
 [**Apache Derby**](https://github.com/apache/derby) - Banco de Dados.
+
+# Pré-requisitos
+
+Antes de abrir o projeto no Netbeans é necessário baixar e instalar o Derby pois o caminho de instalação e da base de dados será parametrizada na IDE.
