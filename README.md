@@ -9,7 +9,7 @@
 
 
 <p align="center">
-	<img src="https://github.com/DarioTeles/MackS3FanBand/blob/master/images/demonstracao2.jpg" width="600" height="450"/>
+	<img src="https://github.com/DarioTeles/MackS3FanBand/blob/master/images/demonstracao2.jpg" width="610" height="450"/>
 
 
 </p>
