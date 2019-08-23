@@ -1,0 +1,21 @@
+INSERT INTO banda (nick, email, pass, nom_ban, gen, descr, tel) VALUES ('Banda01', 'Banda01@123', '123', 'Banda01', 'Teste', 'Teste', '92222-1111');
+
+INSERT INTO evento (nom_eve, descr, loc, dta, rep, val_ing) VALUES ('Evento01', 'Teste', 'São Paulo', '2016-11-10', 1, 100);
+
+INSERT INTO fan (nick, email, pass, nom_fan, dta_nasc, ban_fav) VALUES ('Joao', 'joao@123', '123', 'Joao', '1990-10-10', 'Banda01');
+
+INSERT INTO musica (nom_mus, comp, gen, cont) VALUES ('Musica01', 'Teste', 'Teste', 0);
+
+INSERT INTO repertorio (nom_rep, descr, ban) VALUES ('Repertorio01', 'Teste', 1);
+
+INSERT INTO repertorio_musica (cod_mus, cod_rep) VALUES (1, 1);
+
+INSERT INTO banda_repertorio (cod_ban, cod_rep) VALUES (1, 1);
+
+INSERT INTO banda_evento (cod_ban, cod_eve) VALUES (1, 1);
+
+
+
+
+
+
