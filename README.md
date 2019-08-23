@@ -20,7 +20,7 @@
 
 </p>
 
-Esse é um projeto destinado a disciplina de Linguagem de Programação 2 do curso de Sistemas de Informação realizada no segundo semestre de 2016 e consiste numa aplicação web de gestão de músicas e eventos para profissionais de música, e de um espaço para fans no qual é possível votar nas músicas favoritas com o intuito de auxiliar o músico ao definir um set list para um evento. No projeto foi utilizado linguagens de programação Java e Java Script acompanhado pelo framework Bootstrap responsável pela responsividade e interface com o usuário.
+Esse é um projeto destinado a disciplina de Linguagem de Programação 2 do curso de Sistemas de Informação realizada no segundo semestre de 2016 e consiste numa aplicação web de gestão de músicas e eventos para profissionais de música, e de um espaço para fans no qual é possível votar nas músicas favoritas com o intuito de auxiliar o músico ao definir um set list para um evento. O projeto foi estrututurado numa arquitetura MVC e utilizado linguagens de programação Java e Java Script acompanhado pelo framework Bootstrap responsável pela responsividade e interface com o usuário.
 
 # Conteúdo do repositório
 
