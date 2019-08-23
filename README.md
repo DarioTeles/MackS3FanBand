@@ -1,7 +1,7 @@
 # MackS3FanBand
 
 <p align="center">
-	<img src="https://github.com/DarioTeles/MackS3FanBand/blob/master/images/demonstracao1.jpg" width="896" height="510"/>
+	<img src="https://github.com/DarioTeles/MackS3FanBand/blob/master/images/demonstracao1.jpg" width="896" height="450"/>
 
 
 </p>
